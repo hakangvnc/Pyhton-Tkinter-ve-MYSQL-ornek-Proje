@@ -7,7 +7,7 @@
 # Yüklenmesi gereken kütüphaneler
 cmd komut satırı açılıp pip ile kurulum:<br><br>
 pip install mysql.connector<br>
-pip install PIL<br>
+pip install Pillow<br>
 <br>
 NOT:Diğer kütüphaneler zaten yüklü olacaktır hata aldığınız olursa pip ile tekrar kurulum sağlayabilirsiniz
 # Giriş yapma
