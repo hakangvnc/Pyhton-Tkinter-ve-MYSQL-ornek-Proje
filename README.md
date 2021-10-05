@@ -4,20 +4,12 @@
  Daha sonra phpmyadmin sayfasından yeni veritabanı oluşturmalı ismi:"tasicom"<br>
  Daha sonra phpmyadmin sayfasından veritabanımızı içe aktarmalısınız.(Proje dosyalarının arasında "tasicom.sql") <br>
 <br>
-# import edilmesi gereken kütüphaneler
-
-from tkinter.ttk import*<br>
-from tkinter import *<br>
-from tkinter import messagebox<br>
-import tkinter as tk<br>
-import tkinter.ttk as ttk<br>
-import mysql.connector<br>
-from PIL import Image, ImageTk<br>
-import time<br>
-import datetime<br>
-import random<br>
+# Yüklenmesi gereken kütüphaneler
+cmd komut satırı açılıp pip ile kurulum:<br><br>
+pip install mysql.connector<br>
+pip install PIL<br>
 <br>
-NOT:PC'nizde olmayan kütüphaneleri pip ile kurmalısınız.
+NOT:Diğer kütüphaneler zaten yüklü olacaktır hata aldığınız olursa pip ile tekrar kurulum sağlayabilirsiniz
 # Giriş yapma
 Giriş yapabilmek için üyeler tablosu kullanılmaktadır.<br>
 Phpmyadmin sayfasından manuel veri ekleyebilir yeni bi hesap oluşturabilirsiniz veya vereceğim kullanıcı adı ve şifre ile giriş yapabilirsiniz.<br>
