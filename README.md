@@ -18,4 +18,5 @@ kullanıcıadı:admin <br>
 şifre:12345<br>
 <br>
 Programımız sorunsuz şekilde çalıçaktır.<br><br>
+Programı anlayabilmek için tasarım fotoları kısmını inceleyerek fikir özellikler hakında fikir sahibi olabilirsiniz.<br><br>
 Yardımcı olmamı istediğiniz kısımlar için hakangvnc@mail.com.tr hesabına mesaj atarak bana ulaşabilirniz.<br>
