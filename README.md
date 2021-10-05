@@ -14,8 +14,9 @@ import tkinter.ttk as ttk<br>
 import mysql.connector<br>
 from PIL import Image, ImageTk<br>
 import time<br>
-import datetime<br><br>
+import datetime<br>
 import random<br>
+<br>
 NOT:PC'nizde olmayan kütüphaneleri pip ile kurmalısınız.
 # Giriş yapma
 Giriş yapabilmek için üyeler tablosu kullanılmaktadır.<br>
