@@ -13,7 +13,7 @@ import tkinter as tk<br>
 import tkinter.ttk as ttk<br>
 import mysql.connector<br>
 from PIL import Image, ImageTk<br>
-import time<br><br><br><br>
+import time<br>
 import datetime<br><br>
 import random<br>
 NOT:PC'nizde olmayan kütüphaneleri pip ile kurmalısınız.
