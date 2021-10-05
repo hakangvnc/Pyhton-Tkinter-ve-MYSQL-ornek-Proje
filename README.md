@@ -17,7 +17,7 @@ import time<br><br><br><br>
 import datetime<br><br>
 import random<br>
 <br>
-NOT:PC'nizde olmayan kütüphaneleri pip ile kurlmalısınız.
+NOT:PC'nizde olmayan kütüphaneleri pip ile kurmalısınız.
 
 # Giriş yapma
 Giriş yapabilmek için üyeler tablosu kullanılmaktadır.<br>
@@ -26,5 +26,5 @@ Phpmyadmin sayfasından manuel veri ekleyebilir yeni bi hesap oluşturabilirsini
 kullanıcıadı:admin <br>
 şifre:12345<br>
 <br>
-Programımız sorunsuz şekilde çalıçaktır.<br>
+Programımız sorunsuz şekilde çalıçaktır.<br><br>
 Yardımcı olmamı istediğiniz kısımlar için hakangvnc@mail.com.tr hesabına mesaj atarak bana ulaşabilirniz.<br>
