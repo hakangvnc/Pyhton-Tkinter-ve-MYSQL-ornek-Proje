@@ -16,9 +16,7 @@ from PIL import Image, ImageTk<br>
 import time<br><br><br><br>
 import datetime<br><br>
 import random<br>
-<br>
 NOT:PC'nizde olmayan kütüphaneleri pip ile kurmalısınız.
-
 # Giriş yapma
 Giriş yapabilmek için üyeler tablosu kullanılmaktadır.<br>
 Phpmyadmin sayfasından manuel veri ekleyebilir yeni bi hesap oluşturabilirsiniz veya vereceğim kullanıcı adı ve şifre ile giriş yapabilirsiniz.<br>
