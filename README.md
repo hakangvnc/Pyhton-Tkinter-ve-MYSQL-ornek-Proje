@@ -1,5 +1,5 @@
 # Pyhton-Tkinter-Mysql-ornek-Proje
- Tkinter modülü ile araç kiralama filosu yönetim uygulaması projesi<br>
+ Tkinter modülü ve MYSQL ile araç kiralama filosu yönetim uygulaması projesi<br>
  Localhost'da çalıştığı için XAMMP uygulamasının APACHE SERVER ve MYSQL kısımlarını aktif etmelisiniz.Alternetif programlarda kullanabilirsiniz.<br>
  Daha sonra phpmyadmin sayfasından yeni veritabanı oluşturmalı ismi:"tasicom"<br>
  Daha sonra phpmyadmin sayfasından veritabanımızı içe aktarmalısınız.(Proje dosyalarının arasında "tasicom.sql") <br>
